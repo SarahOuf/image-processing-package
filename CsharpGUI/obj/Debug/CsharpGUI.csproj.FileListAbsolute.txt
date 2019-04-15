@@ -1,0 +1,73 @@
+c:\users\ibrahim amer\documents\visual studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.CoreCompileInputs.cache
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Brightness_form.resources
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Grayscale_form.resources
+E:\EL Ma5robaaaa\3rd Year\1st Semester\Assembly\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Remove_Noise_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.Brightness_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.Grayscale_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.Remove_Noise_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage_RE\CsharpGUI\obj\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.Brightness_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.Grayscale_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.Remove_Noise_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.InvertColors_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackageSemiFinal\CsharpGUI\obj\Debug\CsharpGUI.ImageArithmatic_Form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.ImageArithmatic_Form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Brightness_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Grayscale_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.InvertColors_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Remove_Noise_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage_RE-20171205T182844Z-001\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.ImageArithmatic_Form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Brightness_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Grayscale_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.InvertColors_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.Remove_Noise_form.resources
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Sarah\School\Year 3\Assembly\project\ASM.ImageProcessingPackage(with noise reduction)\CsharpGUI\obj\Debug\CsharpGUI.pdb
